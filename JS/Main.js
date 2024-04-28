@@ -24,7 +24,3 @@ document.getElementById("login").addEventListener("click", function(){
     window.location.href = "../HTML/aftr_login.html";
 });
 
-// keluar
-document.getElementById("keluar").addEventListener("click", function(){
-    window.location.href = "../HTML/Main.html";
-});
