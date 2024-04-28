@@ -1,0 +1,21 @@
+body{
+    padding: 0px 16% 0px 16%;
+    background-color: rgb(230, 230, 230);
+}
+
+
+
+.form .form-element input[type="text"]{
+    display: block;
+    width: 100%;
+    padding: 14px;
+    outline: none;
+    border:  solid #ffffff;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.form .form-element input[type="text"]::placeholder{
+    font-weight: bold;
+    color: black;
+}
